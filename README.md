@@ -26,61 +26,64 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Working Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php" />
+<table align="center">
+<tr>
+
+<td valign="top" width="25%">
+
+### 🚀 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,cs" />
 </p>
 
-### 🌱 Interested Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cs" />
-</p>
+</td>
+
+<td valign="top" width="25%">
 
 ### ⚡ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
+
+</td>
+
+<td valign="top" width="25%">
 
 ### 🔧 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,firebase" />
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</td>
+
+<td valign="top" width="25%">
+
+### 🗄️ Database & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,docker,vscode,linux" />
 </p>
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,docker" />
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
-## 📊 GitHub Stats
+
+## 📈 Google Analytics
 
 <p align="center">
 
 <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pervej0&show_icons=true&theme=tokyonight&hide_border=true" 
-  height="170"
-/>
-
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pervej0&layout=compact&theme=tokyonight&hide_border=true" 
-  height="170"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Pervej0&theme=tokyo-night&hide_border=true"
 />
 
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
 
 <img 
-  src="https://streak-stats.demolab.com?user=Pervej0&theme=tokyonight&hide_border=true" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pervej0&theme=tokyonight"
 />
 
 </p>
