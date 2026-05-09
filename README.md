@@ -1,65 +1,76 @@
-<h1 align="center">Hi 👋, I'm Md Pervej Hossain</h1>
+<img src="https://i.ibb.co/fkkyzcd/Github-Banner.gif" alt="Md Pervej Hossain MasterHead" width="100%">
 
-<h3 align="center">
-  Full Stack Developer | JavaScript & TypeScript Enthusiast
-</h3>
+<h3 align="center">I deeply cherish the maxim: 'Where There Is a Will, There Is a Way.'</h3>
 
-<p align="center">
-  <a href="https://mdpervejhossain.me">Portfolio</a> •
-  <a href="https://github.com/Pervej0">GitHub</a> •
-  <a href="https://linkedin.com/in/md-pervej-hossain">LinkedIn</a> •
-  <a href="https://medium.com/@pervej0">Medium</a>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pervej0&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 💻 Working as a **Full Stack Developer**, building end-to-end web applications  
-- 🚀 Passionate about scalable and modern web solutions  
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, TypeScript**  
-- ✍️ I write articles on **Medium**  
-- ⚙️ I practice **DSA** on **LeetCode, HackerRank & Codeforces**  
-- 🌐 Portfolio: **mdpervejhossain.me**
+- 💻 Full Stack Developer building scalable web applications  
+- 🚀 Passionate about clean architecture & modern UI/UX  
+- 🌱 Currently learning **Advanced Full Stack Development & System Design**  
+- 💬 Ask me about **MERN / Next.js / TypeScript / Node.js**  
+- ✍️ I write technical articles on **Medium**  
+- ⚙️ Practicing **DSA on LeetCode, HackerRank & Codeforces**  
+- 🌐 Portfolio: https://pervej0.web.app  
+- 📫 Email: **mdpervejhossain0@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🔗 Connect With Me
 
-<table align="center">
+<p align="left">
+  <a href="https://twitter.com/pervej00">Twitter</a> •
+  <a href="https://linkedin.com/in/md-pervej-hossain">LinkedIn</a> •
+  <a href="https://stackoverflow.com/users/14571174">StackOverflow</a> •
+  <a href="https://fb.com/pervej0">Facebook</a> •
+  <a href="https://instagram.com/pervej001">Instagram</a> •
+  <a href="https://medium.com/@pervej0">Medium</a> •
+  <a href="https://www.hackerrank.com/pervej0">HackerRank</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<table>
 <tr>
 
-<td valign="top" width="25%">
+<td width="25%" valign="top">
 
 ### 🚀 Languages
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,cs" />
 </p>
 
 </td>
 
-<td valign="top" width="25%">
+<td width="25%" valign="top">
 
 ### ⚡ Frontend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
 </td>
 
-<td valign="top" width="25%">
+<td width="25%" valign="top">
 
 ### 🔧 Backend
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,firebase" />
 </p>
 
 </td>
 
-<td valign="top" width="25%">
+<td width="25%" valign="top">
 
 ### 🗄️ Database & Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,docker,vscode,linux" />
 </p>
 
@@ -70,75 +81,36 @@
 
 ---
 
-## 📈 Google Analytics
+## 📈 Contribution Analytics
 
 <p align="center">
-  <img 
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pervej0&theme=tokyonight"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pervej0&theme=tokyo-night"/>
 </p>
 
 <p align="center">
-  <img 
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pervej0&theme=tokyonight"
-  />
-  
-  <img 
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pervej0&theme=tokyonight"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pervej0&theme=tokyonight"/>
 </p>
 
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img 
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pervej0&theme=tokyonight"
-  />
-  
-  <img 
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pervej0&theme=tokyonight&utcOffset=6"
-  />
+  <img src="https://streak-stats.demolab.com?user=pervej0&theme=tokyonight"/>
 </p>
+
+---
 
 ## 🏆 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/Pervej00">
-    <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/Pervej0">
-    <img src="https://img.shields.io/badge/HackerRank-000?style=for-the-badge&logo=hackerrank&logoColor=green"/>
-  </a>
-
-  <a href="https://codeforces.com/profile/pervej0">
-    <img src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=blue"/>
-  </a>
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Pervej0">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="https://linkedin.com/in/md-pervej-hossain">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://medium.com/@pervej0">
-    <img src="https://skillicons.dev/icons?i=devto" />
-  </a>
+  <a href="https://leetcode.com/Pervej00">LeetCode</a> •
+  <a href="https://www.hackerrank.com/pervej0">HackerRank</a> •
+  <a href="https://codeforces.com/profile/pervej0">Codeforces</a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/Pervej0">Md Pervej Hossain</a>
+  ⭐️ From <a href="https://github.com/pervej0">Md Pervej Hossain</a>
 </p>
