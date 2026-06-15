@@ -10,13 +10,13 @@
 
 ## 💫 About Me
 
-- 💻 Full Stack Developer building scalable web applications  
-- 🚀 Passionate about clean architecture & modern UI/UX  
-- 🌱 Currently learning **Advanced Full Stack Development & System Design**  
+- 💻 Full Stack Developer building scalable Web applications, Mobile Application
+- 🚀 Passionate about software engineering | clean architecture | modern UI/UX | building solutions
+- 🌱 Currently learning **DevOps and Cloud | System Design | Best Practices**  
 - 💬 Ask me about **MERN / Next.js / TypeScript / Node.js**  
 - ✍️ I write technical articles on **Medium**  
 - ⚙️ Practicing **DSA on LeetCode, HackerRank & Codeforces**  
-- 🌐 Portfolio: https://pervej0.web.app  
+- 🌐 Portfolio: [https://mdpervejhossain.me](http://mdpervejhossain.me)
 - 📫 Email: **mdpervejhossain0@gmail.com**
 
 ---
